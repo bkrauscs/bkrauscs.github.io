@@ -11,9 +11,9 @@ title = 'Big Work'
   name = "About"
   url = "/about/"
 [[menu.main]]
-  identifier = "work"
-  name = "Work"
-  url = "/work/"
+  identifier = "its"
+  name = "Into The Stars"
+  url = "/its/"
 [[menu.main]]
   identifier = "articles"
   name = "Articles"
