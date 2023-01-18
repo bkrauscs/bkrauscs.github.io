@@ -1,5 +1,20 @@
 baseURL = 'https://bkrauscs.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
 theme = 'm10c'
 ignorefiles = [ "theme/m10c/exampleSite/.*" ]
+title = 'Big Work'
+[params]
+  description = "A place where I write about the things I find interesting. `They call me the workin' man` - RUSH"
+  avatar = "layzrider.png"
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+[[menu.main]]
+  identifier = "work"
+  name = "Work"
+  url = "/work/"
+[[menu.main]]
+  identifier = "articles"
+  name = "Articles"
+  url = "/articles/"
