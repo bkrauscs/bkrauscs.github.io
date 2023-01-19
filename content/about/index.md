@@ -1,4 +1,7 @@
-### My name is Brian and I am a software engineer, a private pilot, and gamer.
++++
+title = "My name is Brian and I am a software engineer, a private pilot, and gamer."
+date = "2023-01-19"
++++
 ___
 
 #### Engineer

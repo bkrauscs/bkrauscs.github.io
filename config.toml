@@ -17,4 +17,4 @@ title = 'Big Work'
 [[menu.main]]
   identifier = "articles"
   name = "Articles"
-  url = "/articles/"
+  url = "/blog/"
